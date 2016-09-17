@@ -1,7 +1,7 @@
 # 80-characters
 A simple line checker for code written in C.
 
-Useful tool for checking one's code's style.
+Useful tool for checking code for proper style.
 
 Marks all lines that are longer than 80 characters,
 
