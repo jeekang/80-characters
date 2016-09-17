@@ -5,12 +5,13 @@ Marks all lines that are longer than 80 characters,
 and marks all characters in such line past 80. 
 
 ## How To Use
-Download the .c file, compile using:
+Download the .c file, compile using: \n
 gcc 80characters.c -0 80characters.x.
-
+\n
 Type in terminal ./80characters.x < [name of file to be checked here]
 
 ### Note
 Assumes 1000 characters max per line,
+\n
 Assumes every new line starts with a newline character.
 
